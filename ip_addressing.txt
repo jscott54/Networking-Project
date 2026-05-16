@@ -1,0 +1,25 @@
+Campus Network Addressing Scheme
+
+Admissions Network
+Network: 10.5.5.0/27
+Gateway: 10.5.5.1
+
+Administration Network
+Network: 10.5.5.32/27
+Gateway: 10.5.5.33
+
+Faculty Network
+Network: 10.5.5.64/27
+Gateway: 10.5.5.65
+
+Student Network
+Network: 10.5.5.96/27
+Gateway: 10.5.5.97
+
+Housing Network
+Network: 10.5.5.128/27
+Gateway: 10.5.5.129
+
+Library Network
+Network: 10.5.5.160/27
+Gateway: 10.5.5.161

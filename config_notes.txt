@@ -1,0 +1,13 @@
+Designed and configured a simulated campus-style enterprise network using Cisco Packet Tracer.
+
+Implemented subnetting using multiple /27 segmented departmental networks.
+
+Configured centralized routing between departmental LANs using router interfaces and assigned default gateways.
+
+Configured switches to support endpoint connectivity for faculty, administration, housing, library, and student networks.
+
+Implemented static IP addressing, DHCP services, and DNS configuration for network communication.
+
+Validated device connectivity and routing between subnets through troubleshooting and testing procedures.
+
+Integrated servers, wireless devices, PCs, laptops, and network infrastructure devices into the topology.
